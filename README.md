@@ -1,3 +1,3 @@
 # test_u
-Mojolicious::lite
+Mojolicious::lite\\
 DBIx::Connector
